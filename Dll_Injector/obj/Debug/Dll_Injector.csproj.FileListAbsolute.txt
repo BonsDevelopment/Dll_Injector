@@ -1,0 +1,6 @@
+C:\Users\Bon\Documents\Visual Studio 2013\Projects\Dll_Injector\Dll_Injector\bin\Debug\Dll_Injector.exe.config
+C:\Users\Bon\Documents\Visual Studio 2013\Projects\Dll_Injector\Dll_Injector\bin\Debug\Dll_Injector.exe
+C:\Users\Bon\Documents\Visual Studio 2013\Projects\Dll_Injector\Dll_Injector\bin\Debug\Dll_Injector.pdb
+C:\Users\Bon\Documents\Visual Studio 2013\Projects\Dll_Injector\Dll_Injector\obj\Debug\Dll_Injector.csprojResolveAssemblyReference.cache
+C:\Users\Bon\Documents\Visual Studio 2013\Projects\Dll_Injector\Dll_Injector\obj\Debug\Dll_Injector.exe
+C:\Users\Bon\Documents\Visual Studio 2013\Projects\Dll_Injector\Dll_Injector\obj\Debug\Dll_Injector.pdb
